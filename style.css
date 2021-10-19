@@ -1,0 +1,18 @@
+body{
+    color: black;
+    background-color: steelblue;
+
+}
+.heading{
+    width:80%;
+    font-size:22px;
+    font-weight:900;
+}
+.Name_of_Objects{
+    color:darkblue;
+}
+#Camera{
+    border:2px solid darkgray;
+    width: 350px;
+    height: 300px;
+}
